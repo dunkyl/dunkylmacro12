@@ -19,8 +19,10 @@
 
 #define DIODE_DIRECTION COL2ROW
 
-#define ENCODERS_PAD_A { B2 }
-#define ENCODERS_PAD_B { B6 }
+// #define ENCODERS_PAD_A { B2 }
+// #define ENCODERS_PAD_B { B6 }
+#define ENCODERS_PAD_A { D2 }
+#define ENCODERS_PAD_B { D3 }
 
 // #define ENCODER_DIRECTION_FLIP
 
